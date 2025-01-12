@@ -84,9 +84,6 @@ Understanding consumer behavior is vital for businesses and utilities. This proj
   - **High Spenders**: Customers with high income and spending scores.
   - **Budget Buyers**: Customers with low income and moderate spending.
 
-### Sample Visualization:
-![Cluster Visualization](cluster_visualization.png)
-
 ---
 
 ## Future Scope
