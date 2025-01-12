@@ -176,9 +176,6 @@ Credit card fraud is a significant challenge for the financial sector, leading t
 - **Best Model**: Random Forest achieved an F1-score of **0.92** and ROC-AUC of **0.98**.
 - The model successfully identified most fraudulent transactions while minimizing false positives.
 
-### Sample Visualization:
-![Confusion Matrix](confusion_matrix.png)
-
 ---
 
 ## Future Scope
