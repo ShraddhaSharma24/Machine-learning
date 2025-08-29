@@ -30,8 +30,7 @@ machine-learning/
 ├── sensors_wearables/ # Activity recognition with sensor data
 │ ├── activity_recognition_smartphone_sensors.ipynb
 
-markdown
-Copy code
+
 
 ---
 
